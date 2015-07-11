@@ -1,0 +1,18 @@
+_________ _______  _        _______    _______  _______  _______  _______ 
+\__   __/(  ___  )| \    /\(  ____ \  (       )(  ___  )(  ____ )(  ____ \
+   ) (   | (   ) ||  \  / /| (    \/  | () () || (   ) || (    )|| (    \/
+   | |   | (___) ||  (_/ / | (__      | || || || |   | || (____)|| (__    
+   | |   |  ___  ||   _ (  |  __)     | |(_)| || |   | ||     __)|  __)   
+   | |   | (   ) ||  ( \ \ | (        | |   | || |   | || (\ (   | (      
+   | |   | )   ( ||  /  \ \| (____/\  | )   ( || (___) || ) \ \__| (____/\
+   )_(   |/     \||_/    \/(_______/  |/     \|(_______)|/   \__/(_______/
+                                                                   
+			
+			AUTHOR - Raviv Rachmiel && Roei Rosenzwieg
+	Is a game where two players take a card or two from the list
+	That is made randomally with rnd.
+	The goal is to get the biggest sum of numbers at the end of the game
+	ends when there are no more cards
+       
+SO LETS START!!!!
+
